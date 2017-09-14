@@ -3,9 +3,6 @@
 >
 > Maintainer - [Zachary Kimelheim]
 
-## Translations
-
-- [简体中文](./README-zh-cn.md)
 
 ## Table of Contents
 - [Articles](#articles)
